@@ -21,7 +21,7 @@ I'm actively seeking a **work-study opportunity** in **Big Data** or **Machine L
 
 ## 📫 Let’s Connect!
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/nicolas-legrand-266259252/](#)  
-- 🧑‍💻 **GitHub**: [https://github.com/Haaland667](#)  
+- 🧑‍💻 **GitHub**: [https://github.com/Nicolas-Legrand23](#)  
 - ✉️ **Email**: [nicolas.legrand.22@efrei.net](#)
 
 ---
