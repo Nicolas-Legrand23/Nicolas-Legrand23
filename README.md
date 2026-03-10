@@ -1,29 +1,41 @@
-# 👨‍💻 Nicolas | Aspiring Data Scientist & Machine Learning Enthusiast
+# 👨‍💻 Nicolas Legrand — Data Science & Biostatistics
 
-Hi there! 👋 I’m Nicolas, a 3rd-year engineering student pursuing a degree in Computer Science. My passion lies in **Big Data** and Machine Learning, and I’m eager to combine theoretical knowledge with practical experience in these fields.
-
----
-
-## 🌟 About Me
-- 🖥️ **Current Focus**: Enhancing my expertise in data analysis, predictive modeling, and scalable machine learning systems.
-- 📚 **Skills**: Proficient in Python, MongoDB, SQL, Java, and Full Stack Web Developpment; hands-on experience with different school projects.
-- 🎓 **Education**: 3rd-year Computer Science student (Engineering degree) with a solid foundation in algorithms, software development, and data structures.
+Hi! I'm Nicolas, a bioinformatics engineering student at EFREI Paris, currently working as a Data Science / Biostatistics intern at Gustave Roussy and CESP.  
+I focus on applying statistical methods, cohort analysis and machine learning to health-related research.
 
 ---
 
-## 📈 What I'm Looking For
-I'm actively seeking a **work-study opportunity** in **Big Data** or **Machine Learning** to:
-- Apply my academic knowledge to solve real-world challenges.
-- Collaborate with industry professionals and further develop my technical and problem-solving skills.
-- Contribute to innovative projects that leverage data for impactful insights.
+## 🔬 About Me
+- 🎓 Master’s student in Bioinformatics (Engineering degree – EFREI Paris)  
+- 🧪 Currently working on longitudinal analyses, cohort studies and scientific dashboards  
+- 🐍 Strong experience with Python (pandas, numpy, statsmodels, seaborn)  
+- 📊 Skilled in R for biostatistics (tidyverse, ggplot2, survival, Shiny)  
+- 🌐 Also comfortable with full‑stack development (Vue.js, Node.js, Flask)
 
 ---
 
-## 📫 Let’s Connect!
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/nicolas-legrand-266259252/](#)  
-- 🧑‍💻 **GitHub**: [https://github.com/Nicolas-Legrand23](#)  
-- ✉️ **Email**: [nicolas.legrand.22@efrei.net](#)
+## 🛠️ Technical Interests
+- Statistical modelling & data analysis  
+- Machine learning (supervised & unsupervised)  
+- Scientific visualization  
+- Health data, epidemiology, cohort studies  
+- Reproducible research & clean data pipelines  
 
 ---
 
-Feel free to explore my repositories to see some of my projects and contributions. I’m excited to bring my enthusiasm and skills to your team!
+## 📂 Projects on This GitHub
+You’ll find:
+- Data science and machine learning projects  
+- Academic projects (graph algorithms, full‑stack applications, classification models)  
+- Tools and dashboards built in Python or R  
+
+I’m progressively updating older repositories to reflect my current standards and practices.
+
+---
+
+## 📫 Contact
+- **LinkedIn**: https://www.linkedin.com/in/nicolas-legrand-266259252  
+- **GitHub**: https://github.com/Nicolas-Legrand23  
+- **Email**: nicolas.legrand.22@efrei.net
+
+Feel free to explore my work — and don’t hesitate to reach out if you want to discuss data, biostatistics or research projects.
